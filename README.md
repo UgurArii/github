@@ -1,5 +1,5 @@
 # github
 
-[github](https://github.com/UgurArii/github/blob/main/gifOrnek.gif)
+![github](https://github.com/UgurArii/github/blob/main/gifOrnek.gif)
 
 
